@@ -1,2 +1,0 @@
-# proyects-visualstudio
-practica ditigida
