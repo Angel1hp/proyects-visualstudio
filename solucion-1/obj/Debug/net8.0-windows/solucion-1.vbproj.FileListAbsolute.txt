@@ -1,0 +1,16 @@
+D:\visual-sturio\proyects\solucion-1\bin\Debug\net8.0-windows\solucion-1.exe
+D:\visual-sturio\proyects\solucion-1\bin\Debug\net8.0-windows\solucion-1.deps.json
+D:\visual-sturio\proyects\solucion-1\bin\Debug\net8.0-windows\solucion-1.runtimeconfig.json
+D:\visual-sturio\proyects\solucion-1\bin\Debug\net8.0-windows\solucion-1.dll
+D:\visual-sturio\proyects\solucion-1\bin\Debug\net8.0-windows\solucion-1.pdb
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion_1.Form1.resources
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion-1.vbproj.GenerateResource.cache
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion-1.AssemblyInfoInputs.cache
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion-1.AssemblyInfo.vb
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion-1.vbproj.CoreCompileInputs.cache
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion-1.dll
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\refint\solucion-1.dll
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion-1.pdb
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\solucion-1.genruntimeconfig.cache
+D:\visual-sturio\proyects\solucion-1\obj\Debug\net8.0-windows\ref\solucion-1.dll

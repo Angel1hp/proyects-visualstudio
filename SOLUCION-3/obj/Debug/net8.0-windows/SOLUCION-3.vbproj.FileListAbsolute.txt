@@ -1,0 +1,16 @@
+D:\visual-sturio\proyects\SOLUCION-3\bin\Debug\net8.0-windows\SOLUCION-3.exe
+D:\visual-sturio\proyects\SOLUCION-3\bin\Debug\net8.0-windows\SOLUCION-3.deps.json
+D:\visual-sturio\proyects\SOLUCION-3\bin\Debug\net8.0-windows\SOLUCION-3.runtimeconfig.json
+D:\visual-sturio\proyects\SOLUCION-3\bin\Debug\net8.0-windows\SOLUCION-3.dll
+D:\visual-sturio\proyects\SOLUCION-3\bin\Debug\net8.0-windows\SOLUCION-3.pdb
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION_3.Form1.resources
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION-3.vbproj.GenerateResource.cache
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION-3.AssemblyInfoInputs.cache
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION-3.AssemblyInfo.vb
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION-3.vbproj.CoreCompileInputs.cache
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION-3.dll
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\refint\SOLUCION-3.dll
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION-3.pdb
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\SOLUCION-3.genruntimeconfig.cache
+D:\visual-sturio\proyects\SOLUCION-3\obj\Debug\net8.0-windows\ref\SOLUCION-3.dll
