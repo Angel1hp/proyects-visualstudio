@@ -1,3 +1,3 @@
 descargar en <>Code -- download ZIP
 ---------------------------------------------------------------------------------------
-abrir el archivo .sln de cada solucion para visualizar el formulario
+con VISUAL STUDIO abrir el archivo .sln de cada solucion para visualizar el formulario
